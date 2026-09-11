@@ -32,7 +32,7 @@ class FinancialStatementSchema(BaseModel):
     financial_data: List[FinancialMetric] = Field(default_factory=list, description="Array of structural data metrics")
 
 # Gemini API Key
-GEMINI_API_KEY = "AQ.Ab8RN6JQEqWsfioABURTnNw969gHsxblr4_60OUGpYy7ZDaY8Q"
+GEMINI_API_KEY = "Paste_your_API_Key"
 try:
     ai_client = genai.Client(api_key=GEMINI_API_KEY)
 except Exception as e:
