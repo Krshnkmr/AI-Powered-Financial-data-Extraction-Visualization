@@ -1,5 +1,6 @@
 # AI-Powered-Financial-data-Extraction-Visualization
 The repository is used to push the financial data files in image format and then it can automatically store it in to the Mongo DB and it pushed to grafana. So we can see the financial data in visual format.
+
 **🚀 Challenging myself to build, learn, and adapt with AI!**
 
 Even when we don't get the immediate chance to work on a specific stack in our daily projects, I firmly believe in learning by doing. Every massive system built today started as a tiny, hands-on experiment.
